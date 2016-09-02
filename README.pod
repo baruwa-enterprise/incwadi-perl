@@ -6,9 +6,9 @@
 
 Next Generation Email Filtering Gateway.
 
-=for HTML <a href="https://travis-ci.org/baruwa-enterprise/Incwadi"><img src="https://travis-ci.org/baruwa-enterprise/Incwadi.svg?branch=master" /></a>
+=for HTML <a href="https://travis-ci.org/baruwa-enterprise/incwadi"><img src="https://travis-ci.org/baruwa-enterprise/incwadi.svg?branch=master" /></a>
 
-=for HTML <a href="https://codecov.io/gh/baruwa-enterprise/Incwadi"><img src="https://codecov.io/gh/baruwa-enterprise/Incwadi/branch/master/graph/badge.svg" alt="Coverage via Codecov" /></a>
+=for HTML <a href="https://codecov.io/gh/baruwa-enterprise/incwadi"><img src="https://codecov.io/gh/baruwa-enterprise/incwadi/branch/master/graph/badge.svg" alt="Coverage via Codecov" /></a>
 
 =for HTML <a href="http://www.gnu.org/licenses/agpl-3.0.txt"><img src="https://img.shields.io/badge/license-AGPLv3%2B-blue.svg" /></a>
 
