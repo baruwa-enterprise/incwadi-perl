@@ -1,0 +1,20 @@
+language: perl
+perl:
+  - "5.10"
+sudo: required
+install:
+  - cpanm -v --installdeps --notest .
+before_script:
+  - cpanm --quiet --notest --skip-satisfied Devel::Cover Devel::Cover::Report::Codecov
+script:
+  - perl Build.PL
+  - ./Build build
+  - cover -test
+after_success:
+  - cover -report codecov
+notifications:
+  email:
+    on_success: change
+    on_failure: always
+    recipients:
+        - andrew@topdog.za.net
