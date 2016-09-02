@@ -22,6 +22,6 @@ This is still a work in progress.
 
 =head2 License
 
-Incwadi is licensed under the GPLv3 license.
+Incwadi is licensed under the AGPLv3+ License.
 
 =cut
